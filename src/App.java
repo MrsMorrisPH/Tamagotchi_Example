@@ -98,5 +98,8 @@ public class App {
     public static void displayDragonOptions() {
         System.out.println("Options for Dragon: eat, sleep, play, do nothing");
     }
-
+// test
+public static void test() {
+    System.out.println("testing commit");
+}
 }
