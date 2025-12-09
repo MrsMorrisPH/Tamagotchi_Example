@@ -102,4 +102,12 @@ public class App {
 public static void test() {
     System.out.println("testing commit");
 }
+
+public static void branchTest() {
+    System.out.println("testing branch");
+}
+public static void branchTest2() {
+    System.out.println("testing branch");
+}
+// test end
 }
