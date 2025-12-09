@@ -106,5 +106,8 @@ public static void test() {
 public static void branchTest() {
     System.out.println("testing branch");
 }
+public static void branchTest2() {
+    System.out.println("testing branch");
+}
 // test end
 }
